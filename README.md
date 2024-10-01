@@ -13,6 +13,14 @@ footer: "ajeetskbp9843@gmail.com"
 ### **Process to have a idea of going from unknown to known**
 > Thinking - *Imagine that you are lost in a deep forest, unknown of any kind of information that can help you to came out of forest then think and figure-out the procedure that will help you do come out of forest to the city area.*
 
+
+
+---
+# <!--fit-->Supervised Learning
+
+---
+# <!--fit-->Unsupervised Learning
+
 ---
 # <!--fit-->Reinforcement Learning
 
@@ -27,15 +35,27 @@ _footer: "" -->
 ---
 <!-- 
 _footer: "" -->
-
+## `References and Materials to Reinforcement Learning`
 ##### 1. Mathematical Foundations of Reinforcement Learning by Shiyu Zhao
 ##### 2. Reinforcement Learning : An Introduction by Richard S. Sutton and Andrew G. Barto
 ##### 3. Foundations of Reinforcement Learning with Applications in Finance by Ashwin Rao and Tikhnon Jelvis
 ##### 4. PyTorch 1.x Reinforcement Learning Cookbook by Yuxi Liu
 
 ---
-<!-- 
-footer: ""
- -->
+# <!--fit-->Deep Learning
+
+---
+
+---
+
+## `References and Materials to Deep Learning`
+##### 1. Dive into Deep Learning by
+##### 2. Understanding Deep Learning
+##### 3. Deep Learning Architecture : A Mathematical Perspective by 
+##### 4. Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+
+---
+# <!--fit-->Generative AI
+`From Texts to Videos`
 
 ---
