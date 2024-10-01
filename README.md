@@ -21,8 +21,8 @@ footer: "ajeetskbp9843@gmail.com"
 <!-- 
 _footer: "" -->
 ## `1.Mon : Start of a story that in unknown but will be known after months`
-1.[Ch-1](#1-mathematical-foundations-of-reinforcement-learning-by-shiyu-zhao) Fundamental Concepts of Reinforcement Learning like State, action, Enviroment, Agent, State Trasition function, Policy, Reward, Trajectories, Returns and Episodes and Markove Decision Process(MDPs), 
-2. [Ch-2](#1-mathematical-foundations-of-reinforcement-learning-by-shiyu-zhao)State Values, Bellman Equation and It's Solutions like Closed-form & Iterative and Action Values.
+[Ch-1](#1-mathematical-foundations-of-reinforcement-learning-by-shiyu-zhao) : Fundamental Concepts of Reinforcement Learning like State, action, Enviroment, Agent, State Trasition function, Policy, Reward, Trajectories, Returns and Episodes and Markove Decision Process(MDPs), 
+[Ch-2](#1-mathematical-foundations-of-reinforcement-learning-by-shiyu-zhao) : State Values, Bellman Equation and It's Solutions like Closed-form & Iterative and Action Values.
 
 ---
 <!-- 
