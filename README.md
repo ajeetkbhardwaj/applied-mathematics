@@ -18,8 +18,25 @@ footer: "ajeetskbp9843@gmail.com"
 ---
 # <!--fit-->Supervised Learning
 
+
+
+---
+## `References and Materials to Supervised Learning`
+##### [1. An Introduction to Statistical Learning with Application in Python and R by Gareth James, Daniela Witten, Trevor Hastie, Jonathan Taylor and Robert Tibshirani](https://www.statlearning.com/#:~:text=The%20Python%20edition%20(ISLP)%20was%20published)
+##### [2. The Elements of Statistical Learning : Data Mining, Inference and Prediction by Trevor Hastie , Robert Tibshirani , Jerome Friedman](#)
+##### [3. Hands on Intro to Machine Learning by Chirag Shah](#)
+
+
+
 ---
 # <!--fit-->Unsupervised Learning
+
+---
+## `References and Materials to Unsupervised Learning`
+
+##### [1. An Introduction to Statistical Learning with Application in Python and R by Gareth James, Daniela Witten, Trevor Hastie, Jonathan Taylor and Robert Tibshirani](https://www.statlearning.com/#:~:text=The%20Python%20edition%20(ISLP)%20was%20published)
+##### [2. The Elements of Statistical Learning : Data Mining, Inference and Prediction by Trevor Hastie , Robert Tibshirani , Jerome Friedman](#)
+##### [3. Hands on Intro to Machine Learning by Chirag Shah](#)
 
 ---
 # <!--fit-->Reinforcement Learning
@@ -49,10 +66,10 @@ _footer: "" -->
 ---
 
 ## `References and Materials to Deep Learning`
-##### 1. Dive into Deep Learning by
-##### 2. Understanding Deep Learning
-##### 3. Deep Learning Architecture : A Mathematical Perspective by 
-##### 4. Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+##### [1. Dive into Deep Learning by](https://d2l.ai/index.html)
+##### [2. Understanding Deep Learning by ](https://udlbook.github.io/udlbook/)
+##### 3. Deep Learning Architecture : A Mathematical Approach by Ovidiu Calin
+##### [4. Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/#:~:text=The%20Deep%20Learning%20textbook%20is%20a)
 
 ---
 # <!--fit-->Generative AI
