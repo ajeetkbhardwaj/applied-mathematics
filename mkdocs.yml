@@ -2,16 +2,15 @@ site_name: Thinking
 
 theme: 
      name: mkdocs
-     logo: assets/images/logo.jpg
     
 
 nav: 
    - Home : index.md
    - English :
-      - Synonyms.md 
+      - Synonyms.md
+      
    - Apptitude :
-      - "TA-01 Percentages, Profit and Loss.md"
-      - "TA-02 Simple and Compound Interest.md"
+
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
