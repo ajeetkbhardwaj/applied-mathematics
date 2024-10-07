@@ -2,8 +2,12 @@ site_name: Thinking
 
 theme: 
      name: mkdocs
+
+nav:
+  - Home: index.md
+  - English:
+    - English/Synonyms.md
     
-nav: 
-   - Home : index.md
-   - English :
-      - Synonyms.md
+  - Apptitude:
+    - Apptitude/TA-01 Percentages, Profit and Loss.md
+    - Apptitude/TA-02 Simple and Compound Interest.md
