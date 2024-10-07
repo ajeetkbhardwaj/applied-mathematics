@@ -7,9 +7,11 @@ theme:
 
 nav: 
    - Home : index.md
+   - English :
+      - Synonyms.md 
    - Apptitude :
-      - TA-01 Percentages, Profit and Loss.md
-      - TA-02 Simple and Compound Interest.md
+      - "TA-01 Percentages, Profit and Loss.md"
+      - "TA-02 Simple and Compound Interest.md"
 
 extra_javascript:
   - javascripts/mathjax.js
