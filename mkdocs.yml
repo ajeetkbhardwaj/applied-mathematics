@@ -3,13 +3,10 @@ site_name: Thinking
 theme: 
      name: mkdocs
     
-
 nav: 
    - Home : index.md
    - English :
       - Synonyms.md
-      
-   - Apptitude :
 
 
 extra_javascript:
