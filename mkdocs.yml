@@ -54,7 +54,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-repo_url: https://github.com/ajeetkbhardwaj/Lab-for-Applied-Mathematics
+repo_url: https://github.com/ajeetkbhardwaj/applied-mathematics
 repo_name: Ajeet Kumar
 
 copyright: Copyright &copy; 2024 Ajeet Kumar
@@ -62,5 +62,5 @@ copyright: Copyright &copy; 2024 Ajeet Kumar
 nav:
   - Home: index.md
   - Modelling Systems:
-    - Biological/ch1compartmental.md
+    - biological/ch1compartmental.md
     
