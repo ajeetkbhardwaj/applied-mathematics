@@ -61,6 +61,7 @@ copyright: Copyright &copy; 2024 Ajeet Kumar
 
 nav:
   - Home: index.md
-  - Modelling Systems:
-    - biological/ch1compartmental.md
+  - Modelling Sytems:
+      - testing/test.md
+      
     
